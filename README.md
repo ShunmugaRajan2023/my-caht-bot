@@ -1,1 +1,1 @@
-# my-caht-bot
+# my-chat-bot
